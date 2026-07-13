@@ -1,4 +1,4 @@
- Otoscopic Image Classification with Transfer Learning
+# Otoscopic Image Classification with Transfer Learning
 
 ## Overview
 
