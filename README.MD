@@ -75,7 +75,7 @@ The best model checkpoint was selected based on validation loss.
 | Validation accuracy at best-loss epoch | 97.11% |
 | Best checkpoint epoch | 9 |
 
-![alt text](image.png)
+![alt text](../predictions_sample.png)
 ### Test Performance
 
 To be added after final test-set evaluation.
@@ -90,6 +90,6 @@ Planned metrics:
 ## Grad-CAM Analysis
 
 Grad-CAM is used to investigate which image regions contribute to model predictions.
-![alt text](image-1.png)
+![alt text](../gradcam_sample.png)
 
 ## Project Structure
