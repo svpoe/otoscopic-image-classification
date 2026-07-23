@@ -9,6 +9,7 @@ __pycache__/
 .venv/
 venv/
 env/
+.env
 
 # macOS
 .DS_Store
@@ -20,3 +21,17 @@ data/
 checkpoints/
 *.pth
 *.pt
+
+
+#weights and biases
+wandb/
+notebooks/wandb/
+
+
+
+SETTINGS.MD
+
+#OTHER
+gradcam_sample.png
+predictions_sample.png
+testing.py
